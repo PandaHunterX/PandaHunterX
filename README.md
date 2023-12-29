@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/main/Cover1.png" align="center" style="width: 600px" />
+<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" align="center" style="width: 600px" />
 </div>  
 
 # SKILLS  
