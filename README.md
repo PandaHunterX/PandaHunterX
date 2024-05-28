@@ -43,8 +43,9 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=dark&show_icons=true&hide_border=false&layout=compact)<br/>
+![PandaHunterX's Stats](https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)<br/>
+![PandaHunterX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PandaHunterX&theme=midnight-purple&hide_border=false)<br/>
+![PandaHunterX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
