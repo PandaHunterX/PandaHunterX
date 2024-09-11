@@ -45,7 +45,7 @@
 # 📊 GitHub Stats:
 ![PandaHunterX's Stats](https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&count_private=true)<br/>
 ![PandaHunterX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PandaHunterX&theme=algolia&hide_border=true)</br>
-![PandaHunterX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&layout=compact)<br/>](https://gh-stats-gen.vercel.app/)
+![PandaHunterX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&layout=compact)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
