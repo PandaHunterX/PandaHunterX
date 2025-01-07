@@ -1,7 +1,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" align="center" style="width: 600px" />
+ 
+<br/>
+
+
+## My DevCard
+<a href="https://app.daily.dev/pandahunterx"><img src="https://api.daily.dev/devcards/v2/9JJX0Za9WclxH2tfbot7X.png?type=wide&r=bzp" width="652" alt="Roi O. Dungganon's Dev Card"/></a>
 </div>  
 
+ 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -39,7 +46,6 @@
 </td></tr></table>  
 
 <br/>  
- 
 
 <br/>  
 
