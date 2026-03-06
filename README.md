@@ -1,62 +1,66 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" align="center" style="width: 600px" />
- 
+
+<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" width="65%" />
+
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Roi+%F0%9F%91%8B;Full-Stack+Developer;Mobile+%7C+Web+%7C+Desktop;Always+building+something+new)](https://git.io/typing-svg)
 
-## My DevCard
-<a href="https://app.daily.dev/pandahunterx"><img src="https://api.daily.dev/devcards/v2/9JJX0Za9WclxH2tfbot7X.png?type=wide&r=bzp" width="652" alt="Roi O. Dungganon's Dev Card"/></a>
-</div>  
+<br/>
 
- 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[![Instagram](https://img.shields.io/badge/@panda__rifle-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/panda_rifle)
+[![Profile Views](https://komarev.com/ghpvc/?username=PandaHunterX&style=flat-square&color=58A6FF&label=views)](https://github.com/PandaHunterX)
 
-
-
-### Web Development  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 🛠️ Tech Stack
 
+<div align="center">
 
-### Mobile App Development  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+**🌐 Web**&nbsp;
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**📱 Mobile**&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**🖥️ Desktop**&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
 
-### Desktop App Development  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<img src="https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&layout=compact" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaHunterX&theme=algolia&hide_border=true" height="150"/>
+
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+### 🃏 Dev Card
 
-<br/>  
+<div align="center">
+<a href="https://app.daily.dev/pandahunterx">
+  <img src="https://api.daily.dev/devcards/v2/9JJX0Za9WclxH2tfbot7X.png?type=wide&r=bzp" width="480" alt="Roi's Dev Card"/>
+</a>
+</div>
 
-# 📊 GitHub Stats:
-![PandaHunterX's Stats](https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&count_private=true)<br/>
-![PandaHunterX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PandaHunterX&theme=algolia&hide_border=true)</br>
-![PandaHunterX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&layout=compact)<br/>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/panda_rifle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panda_rifle" height="30" width="40" /></a>
-</p>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=60&section=footer" width="100%"/>
+</div>
