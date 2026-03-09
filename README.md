@@ -1,10 +1,10 @@
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" width="65%" />](https://pixel-profile.vercel.app/api/github-stats?username=<PandaHunterX>&theme=summer)
+<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" width="65%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Roi+%F0%9F%91%8B;Full-Stack+Developer;Mobile+%7C+Web+%7C+Desktop;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Roi+%F0%9F%91%8B;Full-Stack+Developer;Mobile+%7C+Web+%7C+Desktop;AI+%26+Automation+Builder+%F0%9F%A4%96;Always+building+something+new)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,6 +34,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+**🤖 AI & Automation**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 </div>
 
 ---
@@ -41,9 +45,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaHunterX&theme=algolia&show_icons=true&hide_border=true&layout=compact" height="150"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaHunterX&theme=algolia&hide_border=true" height="150"/>
 
