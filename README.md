@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" width="65%" />
+[<img src="https://raw.githubusercontent.com/PandaHunterX/PandaHunterX/cb2b073c46611abf02157b31d07628023a3f4d56/Cover1.png" width="65%" />](https://pixel-profile.vercel.app/api/github-stats?username=<PandaHunterX>&theme=summer)
 
 <br/>
 
